@@ -17,3 +17,11 @@ section.principles > .principle-container:first-child {
 section.process > .process-container {
     margin-top: 24px;
 }
+
+section.become-student > ul {
+    margin: 24px 0;
+}
+
+section.what-well-teach-you > ul {
+    margin: 24px 0;
+}
