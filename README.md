@@ -7,7 +7,7 @@ In this repository you can find a set of questions to answer which will help any
 4. Package managers: Abstract concepts and examples
 
 # About the project
-These questions and tasks are part of this [Insert link when landing is ready] project, but by themselves, they are not the complete picture of it. They're two of the three parts needed to train someone in programming basics: The third part involves a tutor for a discussion on the questionaries.
+These questions and tasks are part of this [Insert link when landing is ready] project, but by themselves, they are not the complete picture of it. They're two of the three parts needed to train someone in programming basics: The third part involves a tutor for a discussion on the questionaries, hence the questions are a guide for practice and not an academic base.
 
 ## Tutors
 Feel free to contact any of the tutors explaining the reasons you want to learn how to program.
