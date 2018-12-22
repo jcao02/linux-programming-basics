@@ -13,3 +13,7 @@ section.principles > .principle-container {
 section.principles > .principle-container:first-child {
     margin-top: 0;
 }
+
+section.process > .process-container {
+    margin-top: 24px;
+}
