@@ -46,3 +46,13 @@ footer {
     height: 200px;
     background-color: #e9ecef;
 }
+
+@media screen and (max-width:599px) {
+    section {
+        padding: 0 16px;
+    }
+
+    section.process > .process-container .card {
+        margin-top: 24px;
+    }
+}
